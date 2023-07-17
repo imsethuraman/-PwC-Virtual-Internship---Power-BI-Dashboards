@@ -1,9 +1,9 @@
 # PwC-Virtual-Internship--Power-BI-Dashboards
 This repository features Power BI dashboards created as part of the PwC Virtual Internship offered by The Forage. It includes interactive and visually appealing dashboards that showcase data analysis and visualization skills in areas such as HR Analytics, Telcom Churn Rate, Call Centre Performance
 
-Churn Analysis: https://app.powerbi.com/groups/me/reports/a161d422-3911-4ce8-b30b-33f1169b6829/ReportSection?experience=power-bi
-HR Diversity: https://app.powerbi.com/groups/me/reports/9c531938-35c7-4ec1-b32b-1b7ecbbcbed3/ReportSection?experience=power-bi
-Call Centre: https://app.powerbi.com/groups/me/reports/47412d12-c2c8-40ad-8aec-654fc19fd5fb/ReportSection?experience=power-bi
+1.Churn Analysis: https://app.powerbi.com/groups/me/reports/a161d422-3911-4ce8-b30b-33f1169b6829/ReportSection?experience=power-bi
+2.HR Diversity: https://app.powerbi.com/groups/me/reports/9c531938-35c7-4ec1-b32b-1b7ecbbcbed3/ReportSection?experience=power-bi
+3.Call Centre: https://app.powerbi.com/groups/me/reports/47412d12-c2c8-40ad-8aec-654fc19fd5fb/ReportSection?experience=power-bi
 
 Key Features:
 
